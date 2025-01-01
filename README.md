@@ -19,7 +19,7 @@ Tools Used:
 
 Usage:
 •	Download and install Tableau Desktop.
-•	Open the Tableau workbook (.twb) file in Tableau Desktop.
+•	Open the Tableau workbook (.twb) file: Tableau Zomato Analytics (twbx file).twbx in Tableau Desktop.
 •	Explore the dashboard and interact with the visualizations.
 
 Author: Badrinath Tamanna 
