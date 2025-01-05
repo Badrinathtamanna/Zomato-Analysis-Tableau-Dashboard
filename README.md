@@ -22,5 +22,7 @@ Usage:
 •	Open the Tableau workbook (.twb) file: Tableau Zomato Analytics (twbx file).twbx in Tableau Desktop.
 •	Explore the dashboard and interact with the visualizations.
 
-Author: Badrinath Tamanna 
-Email: Badrinath.tamanna2@gmail.com
+Contact:
+Badrinath Tamanna
+LinkedIn: www.linkedin.com/in/badrinath-tamanna
+Email: badrinath.tamanna2@gmail.com
